@@ -8,6 +8,7 @@
 #include <set>
 #include <string>
 #include <vector>
+#include <windows.h>
 #include <bits/stdc++.h>
 #include "ConsoleColor.h"
 
